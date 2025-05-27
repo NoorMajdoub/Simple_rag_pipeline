@@ -12,7 +12,7 @@ This project demonstrates a simple Retrieval-Augmented Generation (RAG) pipeline
 ├── chroma/                      # Directory where Chroma DB persists
 ├── creating_the_database.py     # Script to create the vector database from documents
 ├── quering_the_data.py          # Script to query the vector DB and generate responses
-├── your_text_file.txt           # Input text document(s)
+├── data.txt           # Input text document(s)
 └── README.md                    # Project documentation
 ```
 
