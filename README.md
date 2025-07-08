@@ -36,7 +36,7 @@ export OPENAI_API_KEY=your_openai_key_here
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 ### Step 1: Create the Database
 
@@ -69,10 +69,4 @@ Answer the question based only on the following context:
 
 Answer the question based on the above context: {question}
 ```
-
-
-
-## 📄 License
-
-MIT License
 
