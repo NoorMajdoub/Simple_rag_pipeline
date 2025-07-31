@@ -4,11 +4,11 @@ from langchain.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 
 
-
 CHROMA_PATH="chroma"
 embedder=HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
-PROMPT_TEMPLATE = """
+PROMPT_TEMPLATE =
+"""
 Answer the question based only on the following context:
 
 {context}
