@@ -56,7 +56,7 @@ python quering_the_data.py
 
 ---
 
-## 📝 Prompt Template
+##  Prompt Template
 
 The following template is used to formulate the prompt passed to the language model:
 
