@@ -5,7 +5,7 @@ This project demonstrates a simple Retrieval-Augmented Generation (RAG) pipeline
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 .
