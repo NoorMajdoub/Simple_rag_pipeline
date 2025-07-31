@@ -18,7 +18,7 @@ This project demonstrates a simple Retrieval-Augmented Generation (RAG) pipeline
 
 ---
 
-## 🛠️ Setup
+##  Setup
 
 1. **Install Dependencies**
 
