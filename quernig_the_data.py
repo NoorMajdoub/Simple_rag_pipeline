@@ -17,7 +17,6 @@ Answer the question based only on the following context:
 
 Answer the question based on the above context: {question}
 """
-
 if __name__=="__main__":
     query_text = "where is alice"
 
